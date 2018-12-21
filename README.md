@@ -46,7 +46,7 @@ git clone git@github.com:jiangjiu/vue-leancloud-blog.git
 $ cd vue-leancloud-blog
 $ npm install
 
-// 启动服务器端, 默认地址 http://localhost:3000
+// 启动服务器端, 默认地址 http://localhost:3000 （lean 无效时，npm install -g avoscloud-code --registry=https://registry.npm.taobao.org）
 $ lean up
 
 // 另开一个 terminal
